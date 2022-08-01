@@ -26,3 +26,4 @@ hot-fix first modified!
 master merge
 hot-git merge
 yuebuqun first modified!
+gitEmptyProject/git-demo modified!
