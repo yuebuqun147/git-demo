@@ -24,9 +24,4 @@ hot-fix first modified!
 hot-fix first modified!
 hot-fix first modified!
 master merge
-<<<<<<< HEAD
 hot-git merge
-=======
-hot-fix merge
-yuebuqun first modified!
->>>>>>> 58615d8f23df0823129ea3b9764ef9ce2873213a
